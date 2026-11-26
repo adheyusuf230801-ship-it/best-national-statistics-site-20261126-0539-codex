@@ -1,0 +1,6 @@
+[
+  { "file": "1-overview.png", "path": "#/overview", "name": "Overview cover", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "2-regions.png", "path": "#/population/regions", "name": "Regional accounts", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "3-economy.png", "path": "#/economy", "name": "Economic trends", "viewport": { "width": 1280, "height": 800 } },
+  { "file": "4-phone.png", "path": "#/overview", "name": "Phone overview", "viewport": { "width": 390, "height": 844 } }
+]
